@@ -1,0 +1,16 @@
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.csproj.AssemblyReference.cache
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/View/MainPage.xaml.g.cs
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/View/PostPage.xaml.g.cs
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.AssemblyInfoInputs.cache
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.AssemblyInfo.cs
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.csproj.CoreCompileInputs.cache
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/bin/Debug/netstandard2.0/Blog.deps.json
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/bin/Debug/netstandard2.0/Blog.dll
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/bin/Debug/netstandard2.0/ref/Blog.dll
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/bin/Debug/netstandard2.0/Blog.pdb
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.dll
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/refint/Blog.dll
+/Users/vishalmakwana/Projects/Blog/Blog/Blog/obj/Debug/netstandard2.0/Blog.pdb

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yv5cAlb5CeAzZjYNS1kYg6+UxjSZnagDmc9NN3IWgDpL90WQTUeSqMqFJpWV5nZwvpFDX7smCw0c8DW+KoheNg==",
+  "success": true,
+  "projectFilePath": "/Users/vishalmakwana/Projects/Blog/Blog/Blog.iOS/Blog.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/vishalmakwana/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
+    "/Users/vishalmakwana/.nuget/packages/xamarin.essentials/1.7.0/xamarin.essentials.1.7.0.nupkg.sha512",
+    "/Users/vishalmakwana/.nuget/packages/xamarin.forms/5.0.0.2196/xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
